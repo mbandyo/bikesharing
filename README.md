@@ -8,7 +8,8 @@ The presentation consists of a story built in Tableau using the ride sharing dat
 * The second page shows dat for starting locations and the indicator circle sizes are proportional to the count of bikes rented at that pick up center. </br>
 * The third page (Checkout Times for Users), represents check out time (hour of day counted on 24 hour basis). This data provides an idea of the peak demand hours and would help inventory planning and rent tiering.</br>
 * The fourth page provides checkout time (as previous page) by gender. This data provides information in planning inventory by suitability. For example, the proportion of female and male riders would determine the need for bike inventory.</br>
-* The fifth page provides information on trip duration by hour of the day. This data helps the determination of churning of bikes for re-renting purpose.</br>
+* The fifth page provides information on trips by hour of the day for each day in the week. This data helps the determination of churning of bikes for re-renting purpose. Following is a snapshot of the chart. The density of color indicates the data fequency.</br>
+
 * The sixth page contains data on trip duration by gender, by weekday and by hour. This data is helpful in maintaining inventory.</br>
 * The last page informs the number of rides by weekdays by gender.</br>
 [Link to Dashboard] (https://public.tableau.com/app/profile/madhulina.bandyopadhyay/viz/NYCBikeRidesVisualization/NYCBikeRideStory?publish=yes)

@@ -14,4 +14,8 @@ Following is the page print of this page for illustration: </br>
 
 * The sixth page contains data on trip duration by gender, by weekday and by hour. This data is helpful in maintaining inventory.</br>
 * The last page informs the number of rides by weekdays by gender.</br>
+Following is the link to Dashboard: </br>
 [Link to Dashboard] (https://public.tableau.com/app/profile/madhulina.bandyopadhyay/viz/NYCBikeRidesVisualization/NYCBikeRideStory?publish=yes)
+
+### Summary
+

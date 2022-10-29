@@ -21,7 +21,7 @@ The folllowing page illustates trip duration by by gender, by weekday and by hou
 ![Trips by Gender (Weekday per Hour](https://github.com/mbandyo/bikesharing/blob/main/Resources/Checkout%20Times%20by%20Gender(Weekday%20per%20Hour).png)
 * The last page informs the number of rides by weekdays by gender.</br>
 Following ia a snapshot of number of rides by weekdays by gender.</br>
-![User Trips by Gender by Weekday](https://github.com/mbandyo/bikesharing/blob/main/Resources/User%20Trips%20by%20Gender%20by%20Weekday.png))
+![User Trips by Gender by Weekday](https://github.com/mbandyo/bikesharing/blob/main/Resources/User%20Trips%20by%20Gender%20by%20Weekday.png)
 Following is the link to Dashboard: </br>
 [Link to Dashboard] (https://public.tableau.com/app/profile/madhulina.bandyopadhyay/viz/NYCBikeRidesVisualization/NYCBikeRideStory?publish=yes)
 

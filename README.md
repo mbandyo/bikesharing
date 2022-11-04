@@ -5,8 +5,12 @@ Since this would be a new product for Des Moine area, there is no specific use d
 ## Analysis
 The presentation consists of a story built in Tableau using the ride sharing data from the month of August, 2019. </br>
 * The first page (User Type) gives an idea of total number of bike rides and the proportions of regular subscribers vs. commuters. Subscribesrs are a stable source of revenue generation not majorly affected by seasonal variations. in NYC, 81% of riders are subscribers. This data provides a good idea of the size of inventory needed and also the stability of revenue stream. </br>
+The following represents the image: </br>
+![User Type by subscription}(https://github.com/mbandyo/bikesharing/blob/main/Resources/User%20Type.png)
 * The second page shows data for starting locations and the indicator circle sizes are proportional to the count of bikes rented at that pick up center. </br>
 * The third page (Checkout Times for Users), represents check out time (hour of day counted on 24 hour basis). This data provides an idea of the peak demand hours and would help inventory planning and rent tiering.</br>
+Following is a visual representation of the top starting locations: </br>
+![Top Starting Locations}(https://github.com/mbandyo/bikesharing/blob/main/Resources/Top%20Starting%20Locations.png)
 The following page illustrates Checjout Times by Users:
 ![Checkout Times by Users](https://github.com/mbandyo/bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.png)
 * The fourth page provides checkout time (as previous page) by gender. This data provides information in planning inventory by suitability. For example, the proportion of female and male riders would determine the need for bike inventory.</br>
